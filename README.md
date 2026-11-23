@@ -85,6 +85,3 @@ Checks the generalised rule engine against the hard-coded version from the
 benchmark notebooks over 20,000 random pairs, and runs the explainer end to
 end asserting validity, causal admissibility and immutability.
 
-## Citing
-
-See `CITATION.cff`.
